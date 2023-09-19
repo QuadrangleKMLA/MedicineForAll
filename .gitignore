@@ -24,3 +24,5 @@
 # typescript
 full_stack_web/*.tsbuildinfo
 full_stack_web/next-env.d.ts
+
+.idea
