@@ -1,0 +1,26 @@
+/full_stack_web/node_modules
+/full_stack_web/.pnp
+/full_stack_web/.pnp.js
+
+/full_stack_web/coverage
+
+/full_stack_web/.next/
+/full_stack_web/out/
+
+/full_stack_web/build
+
+/full_stack_web/.DS_Store
+/full_stack_web/*.pem
+
+/full_stack_web/npm-debug.log*
+/full_stack_web/yarn-debug.log*
+/full_stack_web/yarn-error.log*
+
+/full_stack_web/.env*.local
+
+# vercel
+/full_stack_web/.vercel
+
+# typescript
+full_stack_web/*.tsbuildinfo
+full_stack_web/next-env.d.ts
