@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "jsx": "react-jsx",
-    "target": "ES6",
-    "paths": {
-      "@/*": ["./src/*"]
-    }
-  }
-}

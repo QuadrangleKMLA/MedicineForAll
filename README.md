@@ -12,13 +12,13 @@ Through providing apparent yet fundamental information about the scanned medicin
 
 ### Web and App Development
 
-[Next.js](https://nextjs.org/) 
-- Full Stack Framework for Website Development
-- Access medicine detection service from computers
-
 [React Native](https://reactnative.dev/)
 - Mobile Application Frontend Framework
 - Default medicine detection platform
+
+[Spring Boot](https://spring.io/projects/spring-boot)
+- Java Based Backend Framework
+- Data processing API
 
 [MySQL](https://www.mysql.com/)
 - SQL based relational database that 
