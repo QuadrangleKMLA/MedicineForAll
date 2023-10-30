@@ -1,1 +1,0 @@
-CREATE SCHEMA `medicine_for_all`;
